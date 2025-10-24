@@ -281,7 +281,7 @@ Você precisará obter credenciais para as seguintes APIs:
 
 ### Passo 1: Baixar o Projeto
 
-Extraia o arquivo `webchat-sdr-completo.zip` em uma pasta de sua preferência.
+Extraia o arquivo `webchat-verzel.zip` em uma pasta de sua preferência.
 
 ```bash
 # Exemplo: C:\Projetos\webchat-sdr
@@ -291,13 +291,13 @@ Extraia o arquivo `webchat-sdr-completo.zip` em uma pasta de sua preferência.
 ### Passo 2: Abrir Terminal na Pasta
 
 **Windows:**
-1. Abra a pasta `webchat-sdr`
+1. Abra a pasta `webchat-verzel`
 2. Segure `Shift` + Clique direito em área vazia
 3. Escolha "Abrir janela do PowerShell aqui"
 
 **Mac/Linux:**
 ```bash
-cd caminho/para/webchat-sdr
+cd caminho/para/webchat-verzel
 ```
 
 ### Passo 3: Instalar Dependências
